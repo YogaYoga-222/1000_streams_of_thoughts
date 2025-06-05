@@ -39,9 +39,9 @@ pip install pandas scikit-learn
 ## Example Output
 
 ```bash
-Test Thought 1: Stream of 20 for Community
-Most similar training thought: Stream of 22 for Community
-Similarity Score: 0.88
+Test Thought 9: Stream of 8 for Young
+Most similar training thought: Stream of 34 for Young
+Similarity Score: 0.73
 This is a known or similar thought.
 ```
 ## Run the Script
