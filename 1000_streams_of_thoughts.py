@@ -43,5 +43,5 @@ for i, row in enumerate(similarities):
         print("This might be a new or different thought.")
 
 # Summary
-print(f"\n> Known thoughts: {known}")
-print(f"> New or different thoughts: {len(test_data) - known}")
+print(f"\n Known thoughts: {known}")
+print(f" New or different thoughts: {len(test_data) - known}")
