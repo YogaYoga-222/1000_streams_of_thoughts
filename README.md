@@ -21,7 +21,7 @@ The file should have these columns:
 
 These columns will be joined into one line for each thought.
 
-## 🛠️ Requirements
+## Requirements
 
 Install required Python libraries:
 
